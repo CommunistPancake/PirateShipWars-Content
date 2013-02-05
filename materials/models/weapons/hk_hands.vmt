@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\weapons/hk_hands"
+	"$bumpMap" "models\weapons/hk_hands_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$model" 1
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "12"	
+	"$phongfresnelranges"	"[.8 1 2]"
+}
